@@ -43,9 +43,8 @@
 
 ## 📫 Contáctame
 
-📧 Email: [tuemail@example.com](mailto:tuemail@example.com)  
-🔗 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-🌐 Portafolio: [tusitio.com](https://tusitio.com)  
+📧 Email: cavannaprogramacion@gmail.com (mailto:cavannaprogramacion@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/santiago-valentin-cavanna-5703bb24a/](https://www.linkedin.com/in/santiago-valentin-cavanna-5703bb24a/)  
 
 ---
 ⭐ ¡Si te gusta mi trabajo, no olvides seguirme y darle una estrella a mis repositorios! ⭐
